@@ -8,4 +8,4 @@ python -m compileall pcap.py
 sudo mv pcap.pyc /usr/lib/pymodules/python2.7/dpkt/pcap.pyc
 ````
 or any other location where the dpkt library is installed.
-* Follow the example you would like to see implementation
+* Follow the example if you would like to see implementation
